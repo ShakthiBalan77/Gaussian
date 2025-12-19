@@ -16,7 +16,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 4. Back substitute to compute solution values for the variables.
 
-5.Print the solution vector formatted to two decimal places.
+5. Print the solution vector formatted to two decimal places.
 
 ## Program:
 
